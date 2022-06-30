@@ -1,8 +1,8 @@
-# Bismillah...
+# Bismillahirrahmanirrahiim
 
 ![Photo by Balázs Kétyi on Unsplash](.gitbook/assets/balazs-ketyi-\_x335IZXxfc-unsplash.jpg)
 
-Assalamu'alaikum gengs..
+### Assalamu'alaikum gengs..
 
 Thank you buat temen-temen semua yang mau nyempetin mampir ke _room_ ini.
 
