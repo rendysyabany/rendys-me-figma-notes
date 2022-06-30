@@ -11,3 +11,9 @@ Tujuan gue buat _room_ atau _notes_ sih sebenernya sebagai catetan gw biar lebih
 Intinya sih buat diri gue (_personally_), tapi kalo memang tulisan-tulisan atau pun notes-notes di room ini bermanfaat buat temen-temen Alhamdulillah, semoga jadi pahal amal jariah buat gue.
 
 Aamiin Yaa Robbal'alamiin..
+
+
+
+oh iya, btw kalo mau mampi ke personal web utama gw juga boleh nih ke [Rendys.me](https://rendys.me)
+
+atau _connect_ sama gue di sosmed yok [link.Rendys.me](https://link.rendys.me)
