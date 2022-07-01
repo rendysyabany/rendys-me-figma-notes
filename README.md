@@ -1,6 +1,6 @@
 # ✅ Bismillahirrahmanirrahim
 
-![Photo by Balázs Kétyi on Unsplash](.gitbook/assets/balazs-ketyi-\_x335IZXxfc-unsplash.jpg)
+![Photo by Mario Gogh on Unsplash](<.gitbook/assets/Group 36548 (1).png>)
 
 ### Assalamu'alaikum gengs..
 
