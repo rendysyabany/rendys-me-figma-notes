@@ -28,3 +28,8 @@
 ## Plugins
 
 * [Find Plugins](plugins/find-plugins.md)
+
+## Update
+
+* [Figma Version Update](update/figma-version-update.md)
+* [Notes Changelog](update/notes-changelog.md)
