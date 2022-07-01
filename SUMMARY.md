@@ -1,18 +1,20 @@
 # Table of contents
 
 * [Bismillahirrahmanirrahim](README.md)
+* [Notes Changelog](notes-changelog.md)
+* [Connect](connect.md)
 
-## Figma
+## Best Practice
 
-* [Main Gear](figma/main-gear.md)
-* [Styles](figma/styles.md)
-* [Layout grid](figma/layout-grid.md)
-* [Auto Layout](figma/auto-layout.md)
-* [Components & Variants](figma/components-and-variants.md)
-* [Nested Components](figma/nested-components.md)
-* [Library](figma/library.md)
-* [Branching](figma/branching.md)
-* [Developer Handoff](figma/developer-handoff.md)
+* [Main Tools](best-practice/main-tools.md)
+* [Styles](best-practice/styles.md)
+* [Layout grid](best-practice/layout-grid.md)
+* [Auto Layout](best-practice/auto-layout.md)
+* [Components & Variants](best-practice/components-and-variants.md)
+* [Nested Components](best-practice/nested-components.md)
+* [Library](best-practice/library.md)
+* [Branching](best-practice/branching.md)
+* [Developer Handoff](best-practice/developer-handoff.md)
 
 ## Figjam
 
@@ -29,7 +31,6 @@
 
 * [Find Plugins](plugins/find-plugins.md)
 
-## Update
+## Updates
 
-* [Figma Version Update](update/figma-version-update.md)
-* [Notes Changelog](update/notes-changelog.md)
+* [Figma Version Update](updates/figma-version-update.md)
