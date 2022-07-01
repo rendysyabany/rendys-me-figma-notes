@@ -1,3 +1,3 @@
-# Figma Shortcut
+# 🚧 Figma Shortcut
 
 #### Coming soon

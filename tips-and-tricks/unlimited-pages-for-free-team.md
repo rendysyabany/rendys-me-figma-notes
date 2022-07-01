@@ -1,3 +1,3 @@
-# Unlimited Pages for Free Team
+# 🚧 Unlimited Pages for Free Team
 
 #### Coming soon
