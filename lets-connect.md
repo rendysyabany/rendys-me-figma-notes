@@ -1,4 +1,4 @@
-# 🚧 Let's Connect
+# ✅ Let's Connect
 
 #### Dibawah ini ada list sosial media gue, barang kali temen-temen mau connect monggo ya, glad to be connected.
 
