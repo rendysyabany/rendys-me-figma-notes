@@ -6,12 +6,10 @@
 
 ## Best Practice
 
-* [🚧 Main Tools](best-practice/main-tools.md)
-* [🚧 Styles](best-practice/styles.md)
-* [🚧 Layout grid](best-practice/layout-grid.md)
-* [🚧 Auto Layout](best-practice/auto-layout.md)
-* [🚧 Components & Variants](best-practice/components-and-variants.md)
-* [🚧 Nested Components](best-practice/nested-components.md)
+* [🚧 Basic Tools](best-practice/main-tools.md)
+* [🚧 Style Systems](best-practice/styles.md)
+* [🚧 Grid & Auto Layout](best-practice/layout-grid.md)
+* [🚧 Scaleable Components & Variants](best-practice/components-and-variants.md)
 * [🚧 Library](best-practice/library.md)
 * [🚧 Branching](best-practice/branching.md)
 * [🚧 Developer Handoff](best-practice/developer-handoff.md)
