@@ -1,8 +1,8 @@
 # Table of contents
 
 * [✅ Bismillahirrahmanirrahim](README.md)
-* [🚧 Notes Changelog](notes-changelog.md)
 * [✅ Let's Connect](lets-connect.md)
+* [🚧 Changelog](changelog.md)
 
 ## Best Practice
 
