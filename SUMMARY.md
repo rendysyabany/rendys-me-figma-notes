@@ -2,7 +2,7 @@
 
 * [✅ Bismillahirrahmanirrahim](README.md)
 * [✅ Let's Connect](lets-connect.md)
-* [🚧 Changelog](changelog.md)
+* [✅ Changelog](changelog.md)
 
 ## Best Practice
 
